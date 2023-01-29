@@ -5,3 +5,4 @@ console.log("Minskole added 5")
 console.log('minskole6')
 
 console.log('minksole7')
+console.log('minksole8')
