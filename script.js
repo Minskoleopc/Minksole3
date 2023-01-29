@@ -6,3 +6,4 @@ console.log('minskole6')
 
 console.log('minksole7')
 console.log('minksole8')
+console.log('minksole9')
