@@ -1,4 +1,17 @@
 
 git init
 git status  -  gives status of file tracking
+git add .
+git add script.js
+git commit -m "added"
+git branch -M main --- to  create a branch
+git remote add origin https://github.com/Minskoleopc/Minksole3.git -- connecting local to remote
+git push -u origin main - pushing code from local to remote
+git pull
+
+
+
+
+
+working ---- staging ----- local r =====> remote repo
 
